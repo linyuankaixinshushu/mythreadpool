@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/j/CASqueue/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/testDequeue.dir/testDequeue.cpp.o -c /home/j/CASqueue/testDequeue.cpp",
+  "file": "/home/j/CASqueue/testDequeue.cpp"
+},
+{
+  "directory": "/home/j/CASqueue/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/testEnqueue.dir/testEnqueue.cpp.o -c /home/j/CASqueue/testEnqueue.cpp",
+  "file": "/home/j/CASqueue/testEnqueue.cpp"
+}
+]

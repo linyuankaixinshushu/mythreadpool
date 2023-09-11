@@ -1,0 +1,4 @@
+/home/j/CASqueue/build/CMakeFiles/testDequeue.dir
+/home/j/CASqueue/build/CMakeFiles/testEnqueue.dir
+/home/j/CASqueue/build/CMakeFiles/edit_cache.dir
+/home/j/CASqueue/build/CMakeFiles/rebuild_cache.dir
